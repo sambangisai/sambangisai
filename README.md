@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saisravani
 - 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...JAva
+- 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...Software and ITcompanies
 - 📫 How to reach me ...saisravani322@gmail.com
 
